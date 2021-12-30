@@ -1,0 +1,251 @@
+!SESSION 2021-12-29 22:33:50.354 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Command-line arguments:  -data /Users/jaredmoulton/Programming/java-binary-tree/
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.402
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.629
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.665
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.667
+!MESSAGE Initializing Java Language Server 1.7.0.202112161541
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.697
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.698
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.703
+!MESSAGE Wait for AutoBuildOffJob start
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.718
+!MESSAGE Wait for AutoBuildOffJob end 13ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.718
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.720
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.721
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.722
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.760
+!MESSAGE Started org.eclipse.buildship.core 39ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.789
+!MESSAGE LoadingGradleVersionJob finished 26ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.813
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.825
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.965
+!MESSAGE Default VM Install changed from  null to net.java.openjdk.jdk-/Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:52.971
+!MESSAGE defaultVMInstallChanged -> force update of jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:53.001
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:53.775
+!MESSAGE Workspace initialized in 984ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:53.896
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:53.913
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:54.045
+!MESSAGE >> New configuration: {java={progressReports={enabled=true}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:54.056
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:54.415
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:54.427
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:54.429
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:54.904
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:55.595
+!MESSAGE begin problem for /Solution.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:55.596
+!MESSAGE 1 problems reported for /Solution.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:33:55.603
+!MESSAGE Validated 1. Took 293 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:34:00.456
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:34:00.793
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:34:02.143
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:34:02.201
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:34:03.035
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:34:03.047
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:34:04.745
+!MESSAGE >> document/didSave
+!SESSION 2021-12-29 22:35:21.995 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Command-line arguments:  -data /Users/jaredmoulton/Programming/java-binary-tree/
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-12-29 22:35:23.061
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:23.713
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:23.920
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:23.959
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:23.961
+!MESSAGE Initializing Java Language Server 1.7.0.202112161541
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.001
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.002
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.008
+!MESSAGE Starting org.eclipse.m2e.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.010
+!MESSAGE Started org.eclipse.m2e.core 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.062
+!MESSAGE ProjectRegistryRefreshJob finished 52ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.063
+!MESSAGE Starting org.eclipse.buildship.core
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.086
+!MESSAGE Started org.eclipse.buildship.core 24ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.114
+!MESSAGE LoadingGradleVersionJob finished 26ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.140
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.764
+!MESSAGE Workspace initialized in 648ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.812
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.827
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.894
+!MESSAGE >> New configuration: {java={progressReports={enabled=true}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:24.918
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:25.502
+!MESSAGE Try to create an invisible project for the workspace /Users/jaredmoulton/.config
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:25.505
+!MESSAGE Creating the Java project .config_d76114d7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:25.571
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:25.590
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:25.590
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:25.593
+!MESSAGE Finished creating the Java project .config_d76114d7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:25.653
+!MESSAGE Successfully created a workspace invisible project .config_d76114d7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:35:26.702
+!MESSAGE >> Updating classpath for project .config_d76114d7
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:36:21.133
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-12-29 22:36:21.163
+!MESSAGE file:///Users/jaredmoulton/.config/nvim/init.vim does not resolve to a ICompilationUnit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:36:24.179
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-12-29 22:36:24.185
+!MESSAGE file:///Users/jaredmoulton/.config/nvim/init.vim does not resolve to a ICompilationUnit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:37:13.149
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:37:13.202
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:37:53.127
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:37:53.133
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-12-29 22:37:53.197
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-12-29 22:37:53.858
+!MESSAGE The workspace will exit with unsaved changes in this session.
+
+!ENTRY org.eclipse.core.jobs 4 2 2021-12-29 22:40:26.868
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.NumberFormatException: null
+	at java.base/java.lang.Integer.parseInt(Integer.java:622)
+	at java.base/java.lang.Integer.parseInt(Integer.java:778)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1586)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1263)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1255)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1232)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1143)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
